@@ -62,7 +62,7 @@ Worked on Java-based projects including *SM Learning Institute* and *Online Cour
 
 ### 🌐 Connect with Me  
 <p align="left">
-<a href="[https://linkedin.com/in/aman-gupta224/]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+<a href="https://linkedin.com/in/aman-gupta224/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
 <a href="mailto:amankrgupta888@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" alt="Email"/></a>
 </p>
 
